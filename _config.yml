@@ -10,8 +10,8 @@ title: Simon Giebenhain
 email: simon.giebenhain@uni-konstanz.de
 description: > # this means to ignore newlines until "baseurl:"
   TODO --> add a desription here <-- TODO
-baseurl: ""
 url: "simongiebenhain.github.io"
+baseurl: ""
 
 include:
   - .htaccess
