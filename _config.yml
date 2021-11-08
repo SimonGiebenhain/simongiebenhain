@@ -19,9 +19,14 @@ social:
   - https://github.com/SimonGiebenhain
   - https://scholar.google.com/citations?user=_ju3Ex0AAAAJ&hl=en
   - https://www.linkedin.com/in/simon-giebenhain-4792ba170/
-
+  - https://twitter.com/SGiebenhain
+google_site_verification:
 plugins:
   - jekyll-seo-tag
+author:
+  name: Simon Giebenhain
+  url: https://simongiebenhain.github.io
+  twitter: SGiebenhain
 
 include:
   - .htaccess
