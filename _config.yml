@@ -6,13 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Simon Giebenhain
+title: Simon Giebenhain's Academic GitHub Page
+tagline: My personal research interests
 email: simon.giebenhain@uni-konstanz.de
 description: > # this means to ignore newlines until "baseurl:"
-  TODO --> add a desription here <-- TODO
+  My simple personal website. Everything is on one page and clearly focused on my research interest, 
+  as well as, a nice display of my publications.
 domain: simongiebenhain.github.io
 url: https://simongiebenhain.github.io
 baseurl: 
+social:
+  - https://github.com/SimonGiebenhain
+  - https://scholar.google.com/citations?user=_ju3Ex0AAAAJ&hl=en
+  - https://www.linkedin.com/in/simon-giebenhain-4792ba170/
+
+plugins:
+  - jekyll-seo-tag
 
 include:
   - .htaccess
