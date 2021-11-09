@@ -10,8 +10,8 @@ title: Simon Giebenhain
 tagline: Academic Website of Simon Giebenhain
 email: simon.giebenhain@uni-konstanz.de
 description: > # this means to ignore newlines until "baseurl:"
-  I am a master student at the university of Konstanz, 
-  interested in Geometric Deep Learning and Neural Implicit Representations.
+  I am a master student at the University of Konstanz, 
+  interested in Neural Implicit Representations and Geometric Deep Learning.
 domain: simongiebenhain.github.io
 url: https://simongiebenhain.github.io
 baseurl: 
