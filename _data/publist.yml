@@ -11,7 +11,7 @@
     url: https://openaccess.thecvf.com/content/ACCV2022/papers/Giebenhain_Neural_Puppeteer_Keypoint-Based_Neural_Rendering_of_Dynamic_Shapes_ACCV_2022_paper.pdf
     display: ACCV 2022
   highlight: 1
-  news2: [Project Page](https://urs-waldmann.github.io/NePu/).
+  news2: Link  [Project Page](https://urs-waldmann.github.io/NePu/).
   
 - title: "AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations"
   image: anim.gif
