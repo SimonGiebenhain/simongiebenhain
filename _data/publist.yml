@@ -1,17 +1,15 @@
 - title: "Neural Puppeteer: Keypoint-Based Neural Rendering of Dynamic Shapes"
   image: nepu.gif
-  description: AIR-Net is the first encoder-based, grid-free, implcit shape representation model.
-                Our network design focuses on conformity with geometric properties like 
-                permutation invariance and translation equivariance of the point cloud. 
-                Furthermore, our network operates on the k-nearest-neighbor graph, which encodes an effective anf efficient inductive bias.
-                Using an expressive decoder, we are able to condition an implicit function on a sparse set of local latent vectors.
-                While this simple latent representation certainly offers exciting avenues for future work, our model is still significantly outperforming the previous state-of-the-art.
-  authors: Simon Giebenhain^*, Urs Waldmann^*, Ole Johannsen, and Bastian Goldluecke
+  description: In Neural Puppeteer (NePu) we explore single-evaluation-per-pixel neural rendering for dynamic objects. 
+                In particular we learn a latent space that relates the 3D pose of an object with multiple renderable properties, such as occupancy masks, color and depth.
+                The fast rendering speed allows us to tackle 3D keypoint detection by inverse rendering from multi-view sillhouettes.
+                Using silhouettes alone, we obtain an appearance and lightning invariant representation, that we can fit to real images, in a zero-shot-synthtetic-to-real scenario.
+  authors: Simon Giebenhain<sup>*</sup>, Urs Waldmann<sup>*</sup>, Ole Johannsen, and Bastian Goldluecke
   link:
     url: https://openaccess.thecvf.com/content/ACCV2022/papers/Giebenhain_Neural_Puppeteer_Keypoint-Based_Neural_Rendering_of_Dynamic_Shapes_ACCV_2022_paper.pdf
     display: ACCV 2022
   highlight: 1
-  news2: Link  [Project Page](https://urs-waldmann.github.io/NePu/).
+  news2: More information on our  [Project Page](https://urs-waldmann.github.io/NePu/).
   
 - title: "AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations"
   image: anim.gif
