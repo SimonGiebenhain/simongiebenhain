@@ -1,7 +1,10 @@
 - title: "Neural Puppeteer: Keypoint-Based Neural Rendering of Dynamic Shapes"
-  image: nepu.gif
-  description: test
-  authors: Simon Giebenhain, Urs Waldmann, Ole Johannsen, and Bastian Goldluecke
+  image: anim.gif
+  description: In Neural Puppeteer (NePu) we explore single-evaluation-per-pixel neural rendering for dynamic objects. 
+                In particular we learn a latent space that relates the 3D pose of an object with multiple renderable properties, such as occupancy masks, color and depth.
+                The fast rendering speed allows us to tackle 3D keypoint detection by inverse rendering from multi-view sillhouettes.
+                Using silhouettes alone, we obtain an appearance and lightning invariant representation, that we can fit to real images, in a zero-shot-synthtetic-to-real scenario.
+  authors: Simon Giebenhain^*, Urs Waldmann^*, Ole Johannsen, and Bastian Goldluecke
   link:
     url: https://urs-waldmann.github.io/NePu/docs/nepu_paper.pdf
     display: ACCV 2022
