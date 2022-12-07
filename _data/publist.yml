@@ -1,5 +1,5 @@
 - title: "Neural Puppeteer: Keypoint-Based Neural Rendering of Dynamic Shapes"
-  image: anim.gif
+  image: nepu.gif
   description: In Neural Puppeteer (NePu) we explore single-evaluation-per-pixel neural rendering for dynamic objects. 
                 In particular we learn a latent space that relates the 3D pose of an object with multiple renderable properties, such as occupancy masks, color and depth.
                 The fast rendering speed allows us to tackle 3D keypoint detection by inverse rendering from multi-view sillhouettes.
