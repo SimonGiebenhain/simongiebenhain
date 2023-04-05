@@ -1,15 +1,3 @@
-- title: "Learning Neural Parametric Head Models"
-  image: nphm.gif
-  description: NPHM is a field-based Neural parametric model for human heads, 
-               that represents identity geometry implicitly in a cononical space and models expressions as forward deformations.
-               The SDF in canonical field is represented as an ensemble of local MLPs centered around facial anchor points.
-               To train our model we capture a large dataset of complete head geometry containing over 250 people in 23 expressions each using high quality structured light scanners.
-  authors: Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner
-  link:
-    url: https://simongiebenhain.github.io/NPHM/
-    display: Project Page
-  highlight: 1
-  
 - title: "Neural Puppeteer: Keypoint-Based Neural Rendering of Dynamic Shapes"
   image: nepu.gif
   description: In Neural Puppeteer (NePu) we explore single-evaluation-per-pixel neural rendering for dynamic objects. 
