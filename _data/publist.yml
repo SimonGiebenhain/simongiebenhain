@@ -1,3 +1,15 @@
+- title: "Learning Neural Parametric Head Models"
+  image: nphm.gif
+  description: NPHM is a field-based Neural parametric model for human heads, 
+               that represents identity geometry implicitly in a cononical space and models expressions as forward deformations.
+               The SDF in canonical field is represented as an ensemble of local MLPs centered around facial anchor points.
+               To train our model we capture a large dataset of complete head geometry containing over 250 people in 23 expressions each using high quality structured light scanners.
+  authors: Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos, Martin Rünz, Lourdes Agapito, Matthias Nießner
+  link:
+    url: https://simongiebenhain.github.io/NPHM/
+    display: Project Page
+  highlight: 1
+  
 - title: "Neural Puppeteer: Keypoint-Based Neural Rendering of Dynamic Shapes"
   image: nepu.gif
   description: In Neural Puppeteer (NePu) we explore single-evaluation-per-pixel neural rendering for dynamic objects. 
@@ -13,12 +25,12 @@
   
 - title: "AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations"
   image: anim.gif
-  description: AIR-Net is the first encoder-based, grid-free, implcit shape representation model.
+  description: AIR-Net is the first encoder-based, grid-free, local and implicit shape representation model.
                 Our network design focuses on conformity with geometric properties like 
                 permutation invariance and translation equivariance of the point cloud. 
-                Furthermore, our network operates on the k-nearest-neighbor graph, which encodes an effective anf efficient inductive bias.
+                Furthermore, our network operates on the k-nearest-neighbor graph, which encodes an effective and efficient inductive bias.
                 Using an expressive decoder, we are able to condition an implicit function on a sparse set of local latent vectors.
-                While this simple latent representation certainly offers exciting avenues for future work, our model is still significantly outperforming the previous state-of-the-art.
+                While this simple latent representation certainly offers exciting avenues for future work, our model already outperforms the previous state-of-the-art.
   authors: Simon Giebenhain and Bastian Goldlücke
   link:
     url: https://arxiv.org/abs/2110.11860
