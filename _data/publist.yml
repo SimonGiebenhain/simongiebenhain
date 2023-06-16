@@ -1,3 +1,15 @@
+- title: "NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads"
+  image: nersemble.mp4
+  description: NeRSemble reconstructs high-fidelity dynamic-radiance fields of human heads.
+                We combine a deformation for coarse movments with an ensemble of 3D multi-resolution hash encodings, which act as a form of expression dependent volumetric texture that models fine-grained, expression-depndent details.
+                Additionally we propose a new 16 camer multi-view capture dataset (7.1 MP resolution and 73 frames per second) containing 4700 high-resolution, high-framerate sequences of more than 220 human heads. 
+                The recorded sequences cover a wide range of facial dynamics, including head motions, natural expressions, emotions, and spoken language.
+  authors: Tobias Kirschstein, Shenhan Qian, Simon Giebenhain, Tim Walter, Matthias Nießner
+  link:
+    url: https://tobias-kirschstein.github.io/nersemble/
+    display: Project Page
+  highlight: 1
+  
 - title: "Learning Neural Parametric Head Models"
   image: nphm.gif
   description: NPHM is a field-based Neural parametric model for human heads, 
