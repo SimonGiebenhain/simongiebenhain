@@ -1,5 +1,5 @@
 - title: "DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars"
-  image: diffusion_avatar.mp4
+  image: DiffusionAvatars.gif
   description: DiffusionAvatar uses diffusion-based, deferred neural rendering to translate geometric cues from an underlying neural parametric head model (NPHM) to photo-realistic renderings. 
                 The underlying NPHM prvides accurate control over facial expressions, while the deferred neural rendering leverages the 2D prior of StableDiffusion, in order to generate compeeling images.
 
