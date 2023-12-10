@@ -1,3 +1,15 @@
+- title: "MonoNPHM: Dynamic Head Reconstruction from Monoculuar Videos"
+  image: MonoNPHM.gif
+  description: MonoNPHM is a neural parametric head model that disentangles geomery, appearance and facial expression into three separate latent spaces.
+                Using MonoNPHM as a prior, we tackle the task of dynamic 3D head reconstruction from monocular RGB videos, using inverse, SDF-based, volumetric rendering.
+
+
+  authors: Simon Giebenhain, Tobias Kirschstein, Markos Georgopoulos,  Martin Rünz,  Lourdes Agapito, Matthias Nießner
+  link:
+    url: https://simongiebenhain.github.io/MonoNPHM/
+    display: Project Page
+  highlight: 1
+
 - title: "DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars"
   image: DiffusionAvatars.gif
   description: DiffusionAvatar uses diffusion-based, deferred neural rendering to translate geometric cues from an underlying neural parametric head model (NPHM) to photo-realistic renderings. 
