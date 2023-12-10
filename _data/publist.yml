@@ -1,3 +1,14 @@
+- title: "DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars"
+  image: diffusion_avatar.mp4
+  description: DiffusionAvatar uses diffusion-based, deferred neural rendering to translate geometric cues from an underlying neural parametric head model (NPHM) to photo-realistic renderings. 
+                The underlying NPHM prvides accurate control over facial expressions, while the deferred neural rendering leverages the 2D prior of StableDiffusion, in order to generate compeeling images.
+
+  authors: Tobias Kirschstein, Simon Giebenhain, Matthias Nießner
+  link:
+    url: https://tobias-kirschstein.github.io/diffusion-avatars/
+    display: Project Page
+  highlight: 1
+  
 - title: "NeRSemble: Multi-view Radiance Field Reconstruction of Human Heads"
   image: nersemble.mp4
   description: NeRSemble reconstructs high-fidelity dynamic-radiance fields of human heads.
