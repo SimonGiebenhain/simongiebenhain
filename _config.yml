@@ -8,10 +8,10 @@
 # Site settings
 title: Simon Giebenhain
 tagline: Academic Website of Simon Giebenhain
-email: simon.giebenhain@uni-konstanz.de
+email: simon.giebenhain@tum.de
 description: > # this means to ignore newlines until "baseurl:"
-  I am a master student at the University of Konstanz, 
-  interested in Neural Implicit Representations and Geometric Deep Learning.
+  I am a PhD student at the Technical University of Munich, 
+  interested in Virtual Avatars and Neural Scene Representations.
 domain: simongiebenhain.github.io
 url: https://simongiebenhain.github.io
 baseurl: 
